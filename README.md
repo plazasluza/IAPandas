@@ -1,2 +1,2 @@
 # IAPandas
-Codigos utiles para manejo de tablas
+Codigos útiles para manejo de tablas
